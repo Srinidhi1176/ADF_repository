@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "NidhiADFproject"
+		},
+		"ls_blob_connectionString": {
+			"value": ""
 		}
 	}
 }

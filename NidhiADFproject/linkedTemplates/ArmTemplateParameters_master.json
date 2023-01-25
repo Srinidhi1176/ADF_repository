@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "NidhiADFproject"
 		},
+		"ls_blob_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

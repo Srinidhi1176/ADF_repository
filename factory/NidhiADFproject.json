@@ -1,0 +1,9 @@
+{
+	"name": "NidhiADFproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b180794-bd80-47b0-a402-76334e6e6fa0",
+		"tenantId": "03028dc4-862c-49d9-bb0e-a3fc50b59320"
+	}
+}
